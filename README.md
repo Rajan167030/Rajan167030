@@ -65,7 +65,7 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/ken-rolex?style=social)](https://github.com/Rajan167030)
+  [![GitHub followers](https://img.shields.io/github/followers/Rajan167030?style=social)](https://github.com/Rajan167030)
   [![Twitter Follow](https://img.shields.io/twitter/follow/rajanjh40593219?style=social)](https://x.com/rajanjh40593219)
   ![Profile Views](https://komarev.com/ghpvc/?username=ken-rolex&color=blueviolet&style=flat-square&label=Profile+Views)
 
