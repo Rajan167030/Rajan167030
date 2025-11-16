@@ -5,6 +5,9 @@
 </p>
 
 
+![GitHub Rank](https://img.shields.io/badge/Rajan167030-A--Tier-2b7cff?style=for-the-badge&logo=github)
+
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -112,8 +115,8 @@
 
 
 
-<div align="center">
-  
+
+
   [![github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=Rajan167030&bg_color=0d0d0c&color=203eb6&line=606ca4&point=b9a7a7&area=true&hide_border=true)](https://github.com/Rajan167030)
   
 </div>
