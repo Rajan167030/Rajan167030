@@ -300,10 +300,10 @@ I use AI tools smartly to speed up development, but I always dive deep into lear
 
 | Project | Description | Stack | Live Demo |
 |---------|-------------|-------|-----------|
-| **CulinaryAI** | application helps you generate recipes from ingredients, get personalized health plans, and manage your daily meals and exercises. | [View](https://culinary-ai-nine.vercel.app/) |
-| **ANYNOMUS-TALK** | Connect Freely, Share Boldly, Stay Anonymous | Express.js markdown socket.io javascript bootstrap css html react  react hook form| [In Progress] | looking for collabration
-| **Exa MCP Server** | A Model Context Protocol (MCP) server lets AI assistants like Claude use the Exa AI Search API for web searches. This setup allows AI models to get real-time web information in a safe and controlled way. | javascript typescript docker.file| [Visit my repo] |
-| **Portfolio v2** | Modern portfolio with 3D animations | Next.js, Three.js, Framer Motion | [View](https://rajan-jha-v2.vercel.app) |
+| **CulinaryAI** | AI meal planner that generates recipes from ingredients and health profiles. | Next.js, TypeScript, Tailwind CSS, Genkit | [View](https://culinary-ai-nine.vercel.app/) |
+| **AssignMe** | Converts assignments into customizable handwritten-style documents. | HTML, CSS, JavaScript, Python | [View](https://asignme.onrender.com/) |
+| **EmoSense** | Real-time facial emotion recognition with live charts. | React, Vite, Tailwind CSS, face-api.js | [View](https://emosense-v1.vercel.app/) |
+| **Portfolio v2** | Modern portfolio with 3D animations. | Next.js, Three.js, Framer Motion | [View](https://rajan-jha-v2.vercel.app) |
 
 ## 📊 Weekly Development Breakdown
 
@@ -460,5 +460,4 @@ Docker       0 hrs 57 mins   ░░░░░░░░░░░░░░░    3.
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" />
 </p>
-
 
